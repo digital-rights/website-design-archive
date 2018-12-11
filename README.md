@@ -7,7 +7,7 @@ most changes here never went live due to technical limitations but we have archi
 ## Timeline
 
 1. initial publication **[was live]**
-2. d-r-site-test-gh-pages **[internal testing]
+2. d-r-site-test-gh-pages **[internal testing]**
 3. digitalBlogTest **[internal testing]**
 4. jekyll-TeXt-theme-web-test **[live theme]**
 
